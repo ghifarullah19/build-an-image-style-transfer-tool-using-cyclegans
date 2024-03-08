@@ -15,6 +15,9 @@ Name     : Arifian Saputra
 
 ## Tech Stack:
 - Python
+- Jupyter Notebook
+- Numpy
+- Pillow
 - Tensorflow
 - Matplotlib
 - CycleGANs
